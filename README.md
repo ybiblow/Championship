@@ -1,2 +1,3 @@
-# Championship
-Java OOP final project
+## Championship
+Built a championship management system for sports games.
+Using Java, JavaFX, MVC, OOP and Eclipse.
