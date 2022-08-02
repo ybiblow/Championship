@@ -4,7 +4,7 @@ The user inputs the names of the players/teams, decides the tournoment type and 
 
 Developed using Java, JavaFX, MVC, OOP and Eclipse.
 
-##Screenshots
+## Screenshots
 <p align="center">
 <img src="https://github.com/ybiblow/Championship/blob/master/Pics/one.png?raw=true" width="800" height="480">
 <img src="https://github.com/ybiblow/Championship/blob/master/Pics/two.png?raw=true" width="800" height="480">
